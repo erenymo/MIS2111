@@ -1,0 +1,15 @@
+/Users/erenymo/Documents/dev/oop/Week 3/Week_3/Week_3/bin/Debug/net6.0/Week_3
+/Users/erenymo/Documents/dev/oop/Week 3/Week_3/Week_3/bin/Debug/net6.0/Week_3.deps.json
+/Users/erenymo/Documents/dev/oop/Week 3/Week_3/Week_3/bin/Debug/net6.0/Week_3.runtimeconfig.json
+/Users/erenymo/Documents/dev/oop/Week 3/Week_3/Week_3/bin/Debug/net6.0/Week_3.dll
+/Users/erenymo/Documents/dev/oop/Week 3/Week_3/Week_3/bin/Debug/net6.0/Week_3.pdb
+/Users/erenymo/Documents/dev/oop/Week 3/Week_3/Week_3/obj/Debug/net6.0/Week_3.csproj.AssemblyReference.cache
+/Users/erenymo/Documents/dev/oop/Week 3/Week_3/Week_3/obj/Debug/net6.0/Week_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erenymo/Documents/dev/oop/Week 3/Week_3/Week_3/obj/Debug/net6.0/Week_3.AssemblyInfoInputs.cache
+/Users/erenymo/Documents/dev/oop/Week 3/Week_3/Week_3/obj/Debug/net6.0/Week_3.AssemblyInfo.cs
+/Users/erenymo/Documents/dev/oop/Week 3/Week_3/Week_3/obj/Debug/net6.0/Week_3.csproj.CoreCompileInputs.cache
+/Users/erenymo/Documents/dev/oop/Week 3/Week_3/Week_3/obj/Debug/net6.0/Week_3.dll
+/Users/erenymo/Documents/dev/oop/Week 3/Week_3/Week_3/obj/Debug/net6.0/refint/Week_3.dll
+/Users/erenymo/Documents/dev/oop/Week 3/Week_3/Week_3/obj/Debug/net6.0/Week_3.pdb
+/Users/erenymo/Documents/dev/oop/Week 3/Week_3/Week_3/obj/Debug/net6.0/Week_3.genruntimeconfig.cache
+/Users/erenymo/Documents/dev/oop/Week 3/Week_3/Week_3/obj/Debug/net6.0/ref/Week_3.dll
