@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{C580FE26-6C95-44C8-B767-2B99413A5401}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Week__4 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Week__4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week_4/Program.cs">
+    <Files>
+      <File FileName="Week_4/Program.cs" Line="134" Column="19" />
+      <File FileName="Week_4/Sample.cs" Line="15" Column="15" />
+      <File FileName="Week_4/Player.cs" Line="13" Column="51" />
+      <File FileName="Week_4/Utilities.cs" Line="4" Column="28" />
+      <File FileName="Week_4/Coordinate.cs" Line="4" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week_4" expanded="True">
+            <Node name="Week_4" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
