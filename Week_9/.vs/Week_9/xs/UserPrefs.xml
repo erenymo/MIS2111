@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{DFBD4415-2CB3-4B83-BD98-87ED573FD05B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Week__9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week_9/Program.cs">
+    <Files>
+      <File FileName="Week_9/Program.cs" Line="23" Column="30" />
+      <File FileName="Week_9/MachineA.cs" Line="38" Column="1" />
+      <File FileName="Week_9/MachineB.cs" Line="6" Column="6" />
+      <File FileName="Week_9/Machine.cs" Line="11" Column="53" />
+      <File FileName="Week_9/IMachineStartStop.cs" Line="4" Column="55" />
+      <File FileName="Week_9/IUpdate.cs" Line="2" Column="17" />
+      <File FileName="Week_9/IMaintenance.cs" Line="10" Column="1" />
+      <File FileName="Week_9/IPerformance.cs" Line="4" Column="31" />
+      <File FileName="Week_9/IShift.cs" Line="4" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week_9" expanded="True">
+            <Node name="Week_9">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

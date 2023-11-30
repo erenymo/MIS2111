@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/erenymo/Desktop/dev/MIS2103/Week2/Week2/Week2.csproj": {}
+    "/Users/erenymo/Desktop/dev/MIS2103/Week_9/Week_9/Week_9.csproj": {}
   },
   "projects": {
-    "/Users/erenymo/Desktop/dev/MIS2103/Week2/Week2/Week2.csproj": {
+    "/Users/erenymo/Desktop/dev/MIS2103/Week_9/Week_9/Week_9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/erenymo/Desktop/dev/MIS2103/Week2/Week2/Week2.csproj",
-        "projectName": "Week2",
-        "projectPath": "/Users/erenymo/Desktop/dev/MIS2103/Week2/Week2/Week2.csproj",
+        "projectUniqueName": "/Users/erenymo/Desktop/dev/MIS2103/Week_9/Week_9/Week_9.csproj",
+        "projectName": "Week_9",
+        "projectPath": "/Users/erenymo/Desktop/dev/MIS2103/Week_9/Week_9/Week_9.csproj",
         "packagesPath": "/Users/erenymo/.nuget/packages/",
-        "outputPath": "/Users/erenymo/Desktop/dev/MIS2103/Week2/Week2/obj/",
+        "outputPath": "/Users/erenymo/Desktop/dev/MIS2103/Week_9/Week_9/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/erenymo/.nuget/NuGet/NuGet.Config"
