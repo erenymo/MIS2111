@@ -1,0 +1,15 @@
+/Users/erenymo/Desktop/dev/MIS2103/Week_11/Week_11/bin/Debug/net6.0/Week_11
+/Users/erenymo/Desktop/dev/MIS2103/Week_11/Week_11/bin/Debug/net6.0/Week_11.deps.json
+/Users/erenymo/Desktop/dev/MIS2103/Week_11/Week_11/bin/Debug/net6.0/Week_11.runtimeconfig.json
+/Users/erenymo/Desktop/dev/MIS2103/Week_11/Week_11/bin/Debug/net6.0/Week_11.dll
+/Users/erenymo/Desktop/dev/MIS2103/Week_11/Week_11/bin/Debug/net6.0/Week_11.pdb
+/Users/erenymo/Desktop/dev/MIS2103/Week_11/Week_11/obj/Debug/net6.0/Week_11.csproj.AssemblyReference.cache
+/Users/erenymo/Desktop/dev/MIS2103/Week_11/Week_11/obj/Debug/net6.0/Week_11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erenymo/Desktop/dev/MIS2103/Week_11/Week_11/obj/Debug/net6.0/Week_11.AssemblyInfoInputs.cache
+/Users/erenymo/Desktop/dev/MIS2103/Week_11/Week_11/obj/Debug/net6.0/Week_11.AssemblyInfo.cs
+/Users/erenymo/Desktop/dev/MIS2103/Week_11/Week_11/obj/Debug/net6.0/Week_11.csproj.CoreCompileInputs.cache
+/Users/erenymo/Desktop/dev/MIS2103/Week_11/Week_11/obj/Debug/net6.0/Week_11.dll
+/Users/erenymo/Desktop/dev/MIS2103/Week_11/Week_11/obj/Debug/net6.0/refint/Week_11.dll
+/Users/erenymo/Desktop/dev/MIS2103/Week_11/Week_11/obj/Debug/net6.0/Week_11.pdb
+/Users/erenymo/Desktop/dev/MIS2103/Week_11/Week_11/obj/Debug/net6.0/Week_11.genruntimeconfig.cache
+/Users/erenymo/Desktop/dev/MIS2103/Week_11/Week_11/obj/Debug/net6.0/ref/Week_11.dll
