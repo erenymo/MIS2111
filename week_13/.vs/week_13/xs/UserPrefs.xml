@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{932C56DF-2BFF-4450-A020-F457BCE5D440}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.week__13 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="week_13/Coordinate.cs">
+    <Files>
+      <File FileName="week_13/Program.cs" Line="67" Column="18" />
+      <File FileName="week_13/Coordinate.cs" Line="12" Column="1" />
+      <File FileName="week_13/Coordinate1.cs" Line="13" Column="1" />
+      <File FileName="week_13/Coordinate2.cs" Line="6" Column="37" />
+      <File FileName="week_13/Coordinate3.cs" Line="8" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="week_13" expanded="True">
+            <Node name="week_13">
+              <Node name="Coordinate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
